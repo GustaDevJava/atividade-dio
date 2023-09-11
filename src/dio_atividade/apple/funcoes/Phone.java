@@ -1,4 +1,4 @@
-package dio_atividade.apple;
+package dio_atividade.apple.funcoes;
 
 public interface Phone {
 

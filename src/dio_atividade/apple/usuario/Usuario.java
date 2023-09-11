@@ -1,6 +1,6 @@
 package dio_atividade.apple.usuario;
 
-import dio_atividade.apple.funcoes.IPhone;
+import dio_atividade.apple.celular.IPhone;
 
 public class Usuario {
 

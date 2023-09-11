@@ -1,8 +1,8 @@
-package dio_atividade.apple.funcoes;
+package dio_atividade.apple.celular;
 
-import dio_atividade.apple.IPod;
-import dio_atividade.apple.Internet;
-import dio_atividade.apple.Phone;
+import dio_atividade.apple.funcoes.IPod;
+import dio_atividade.apple.funcoes.Internet;
+import dio_atividade.apple.funcoes.Phone;
 
 public class IPhone implements IPod, Phone, Internet{
 
@@ -20,5 +20,4 @@ public class IPhone implements IPod, Phone, Internet{
 	public void tocarMusicas() {
 		System.out.println("Tocando musicas da playlist");
 	}
-
 }
